@@ -17,7 +17,7 @@ const CartModal = () => {
             {/* ITEM */}
             <div className=" flex gap-4">
               <Image
-                src="https://unsplash.com/photos/blue-and-white-round-light-lZCHy8PLyyo"
+                src="https://images.pexels.com/photos/14309805/pexels-photo-14309805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt=""
                 width={72}
                 height={96}
