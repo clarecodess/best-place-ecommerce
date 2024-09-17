@@ -33,8 +33,8 @@ const Footer = () => {
               <Link href="">Careers</Link>
               <Link href="">Contact Us</Link>
               <Link href="">Customer Service</Link>
-              <Link href="">My Account</Link>
               <Link href="">Legal & Privacy</Link>
+              <Link href="">Admin</Link>
             </div>
           </div>
           <div className="flex flex-col justify-between">
