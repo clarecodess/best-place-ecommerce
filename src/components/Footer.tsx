@@ -35,9 +35,10 @@ const Footer = () => {
             </div>
           </div>
           <div className="flex flex-col justify-between">
-            <h1 className="font-medium text-lg">SHOP</h1>
+            <h1 className="font-medium text-lg ">SHOP</h1>
             <div className="flex flex-col gap-6">
-              <Link href="">New Arrivals</Link>
+              <Link href="">Latest</Link>
+              <Link href="">Popular</Link>
               <Link href="">Accessories</Link>
               <Link href="">Computers</Link>
               <Link href="">Phones</Link>
@@ -71,9 +72,7 @@ const Footer = () => {
           </div>
           <span className="font-semibold">Secure Payments</span>
           <div className="flex justify-between">
-            <Image src="/discover.png" alt="" width={40} height={20} />
-            <Image src="/skrill.png" alt="" width={40} height={20} />
-            <Image src="/paypal.png" alt="" width={40} height={20} />
+            <Image src="/mpesa.png" alt="" width={40} height={20} />
             <Image src="/mastercard.png" alt="" width={40} height={20} />
             <Image src="/visa.png" alt="" width={40} height={20} />
           </div>
@@ -85,7 +84,7 @@ const Footer = () => {
         <div className="flex flex-col gap-8 md:flex-row">
           <div className="">
             <span className="text-gray-500 mr-4">Language</span>
-            <span className="font-medium">Kenya | English</span>
+            <span className="font-medium">Swahili | English</span>
           </div>
           <div className="">
             <span className="text-gray-500 mr-4">Currency</span>
