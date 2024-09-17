@@ -32,6 +32,9 @@ const Footer = () => {
               <Link href="">About Us</Link>
               <Link href="">Careers</Link>
               <Link href="">Contact Us</Link>
+              <Link href="">Customer Service</Link>
+              <Link href="">My Account</Link>
+              <Link href="">Legal & Privacy</Link>
             </div>
           </div>
           <div className="flex flex-col justify-between">
@@ -45,16 +48,7 @@ const Footer = () => {
               <Link href="">All Products</Link>
             </div>
           </div>
-          <div className="flex flex-col justify-between">
-            <h1 className="font-medium text-lg">HELP</h1>
-            <div className="flex flex-col gap-6">
-              <Link href="">Customer Service</Link>
-              <Link href="">My Account</Link>
-              <Link href="">Find Us</Link>
-              <Link href="">Legal & Privacy</Link>
-              <Link href="">Gift Card</Link>
-            </div>
-          </div>
+          
         </div>
         {/* RIGHT */}
         <div className="w-full md:w-1/2 lg:w-1/4 flex flex-col gap-8">
