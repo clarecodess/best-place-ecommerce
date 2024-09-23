@@ -29,23 +29,21 @@ const Footer = () => {
           <div className="flex flex-col justify-between">
             <h1 className="font-medium text-lg">COMPANY</h1>
             <div className="flex flex-col gap-6">
-              <Link href="">About Us</Link>
-              <Link href="">Careers</Link>
-              <Link href="">Contact Us</Link>
-              <Link href="">Customer Service</Link>
-              <Link href="">Legal & Privacy</Link>
-              <Link href="">Admin</Link>
+              <Link href="/about">About Us</Link>
+              <Link href="/careers">Careers</Link>
+              <Link href="/contact">Contact Us</Link>
+              
+              <Link href="/admin">Admin</Link>
             </div>
           </div>
           <div className="flex flex-col justify-between">
             <h1 className="font-medium text-lg ">SHOP</h1>
             <div className="flex flex-col gap-6">
-              <Link href="">Latest</Link>
-              <Link href="">Popular</Link>
-              <Link href="">Accessories</Link>
-              <Link href="">Computers</Link>
-              <Link href="">Phones</Link>
-              <Link href="">All Products</Link>
+              <Link href="/">Home</Link>
+              <Link href="/about">About</Link>
+              <Link href="/list">Products</Link>
+              <Link href="/contact">Contact</Link>
+              
             </div>
           </div>
           

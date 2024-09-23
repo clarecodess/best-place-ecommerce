@@ -25,10 +25,9 @@ const NavBar = () => {
                 </Link>
                 <div className=" hidden xl:flex items-center justify-between gap-4">
                     <Link href="/">Home</Link>
-                    <Link href="/">Latest</Link>
-                    <Link href="/">Popular</Link>
-                    <Link href="/">Deals</Link>
-                    <Link href="/">Contact</Link>
+                    <Link href="/list">Products</Link>
+                    <Link href="/about">About</Link>
+                    <Link href="/contact">Contact</Link>
                 </div>
             </div>
 
