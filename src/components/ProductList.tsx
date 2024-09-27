@@ -29,7 +29,7 @@ const ProductList = () => {
             <span className="font-semibold">KES 2000</span>
         </div>
         <div className="text-sm text-gray-500">Description</div>
-        <button className="rounded-2xl ring-1 ring-accent text-accent py-2 px-4 text-xs w-max hover:bg-accent hover:text-white">Add to Cart</button>
+        <button className="rounded-2xl bg-purple-500 ring-1 ring-accent text-accent py-2 px-4 text-xs w-max hover:bg-accent hover:text-white">Add to Cart</button>
       </Link>
 
       <Link
@@ -57,7 +57,7 @@ const ProductList = () => {
             <span className="font-semibold">KES 2000</span>
         </div>
         <div className="text-sm text-gray-500">Description</div>
-        <button className="rounded-2xl ring-1 ring-accent text-accent py-2 px-4 text-xs w-max hover:bg-accent hover:text-white">Add to Cart</button>
+        <button className="rounded-2xl bg-purple-500 ring-1 ring-accent text-accent py-2 px-4 text-xs w-max hover:bg-accent hover:text-white">Add to Cart</button>
       </Link>
 
       <Link
@@ -85,7 +85,7 @@ const ProductList = () => {
             <span className="font-semibold">KES 2000</span>
         </div>
         <div className="text-sm text-gray-500">Description</div>
-        <button className="rounded-2xl ring-1 ring-accent text-accent py-2 px-4 text-xs w-max hover:bg-accent hover:text-white">Add to Cart</button>
+        <button className="rounded-2xl bg-purple-500 ring-1 ring-accent text-accent py-2 px-4 text-xs w-max hover:bg-accent hover:text-white">Add to Cart</button>
       </Link>
 
       <Link
@@ -113,7 +113,7 @@ const ProductList = () => {
             <span className="font-semibold">KES 2000</span>
         </div>
         <div className="text-sm text-gray-500">Description</div>
-        <button className="rounded-2xl ring-1 ring-accent text-accent py-2 px-4 text-xs w-max hover:bg-accent hover:text-white">Add to Cart</button>
+        <button className="rounded-2xl bg-purple-500 ring-1 ring-accent text-accent py-2 px-4 text-xs w-max hover:bg-accent hover:text-white">Add to Cart</button>
       </Link>
     </div>
   );

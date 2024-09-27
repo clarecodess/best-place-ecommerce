@@ -14,7 +14,7 @@ const Footer = () => {
           <p>
             3252 Moi Avenue, Central Plaza, CBD, NBO 00100, Kenya
           </p>
-          <span className="font-semibold">hello@bestplace.ke</span>
+          <span className="font-semibold">hello@bestplace.co.ke</span>
           <span className="font-semibold">+254 798 500 000</span>
           <div className="flex gap-6">
             <Image src="/facebook.png" alt="" width={16} height={16} />
